@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accounting-for-kids/static/css/main.0d26d894.css",
+    "main.js": "/accounting-for-kids/static/js/main.b337c63c.js",
+    "index.html": "/accounting-for-kids/index.html",
+    "main.0d26d894.css.map": "/accounting-for-kids/static/css/main.0d26d894.css.map",
+    "main.b337c63c.js.map": "/accounting-for-kids/static/js/main.b337c63c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d26d894.css",
+    "static/js/main.b337c63c.js"
+  ]
+}
